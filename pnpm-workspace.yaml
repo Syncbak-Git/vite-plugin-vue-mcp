@@ -4,7 +4,7 @@ catalog:
   '@antfu/eslint-config': ^4.10.1
   '@antfu/ni': ^24.1.0
   '@antfu/utils': ^9.1.0
-  '@modelcontextprotocol/inspector': ^0.6.0
+  '@modelcontextprotocol/inspector': ^0.16.6
   '@modelcontextprotocol/sdk': ^1.7.0
   '@types/debug': ^4.1.12
   '@types/node': latest
